@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Government Of India</string>
+    <string name="action_settings">Settings</string>
+    <string name="string1">Welcome to the Government of India</string>
+    <string name="string2">ENTER</string>
+
+    <color name="orange">#f44f01</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <string name="title_activity_main_menu">Main Menu</string>
+    <string name="string3">Menu</string>
+    <string name="string4">Icon</string>
+    <string name="title_activity_my_gov">My Gov</string>
+    <string name="string5">MyGov (mygov.nic.in) has been launched by the Hon\'ble Prime Minister to facilitate Citizen Engagement for Good Governance and present a wonderful opportunity to move towards Surajya.</string>
+    <string name="string6">Go to site</string>
+    <string name="title_activity_at_aglance">At a glance</string>
+    <string name="string7">Government: Federal republic, Constitutional republic, Parliamentary system\nCapital: New Delhi\nPresident: Pranab Mukherjee\nPopulation: 1.237 billion (2012, Source: World Bank)\nPrime minister: Narendra Modi</string>
+    <string name="string8">Know more</string>
+    <string name="title_activity_directory">Directory</string>
+    <string name="string9">Directory</string>
+    <string name="string10">Web Directory</string>
+    <string name="string11">In the directory you will find the contact information for Union, State and UT Government agencies, authorized persons and employees. The web directory is a one-point source to access all Indian Government Websites at all levels and from all sectors.</string>
+    <string name="title_activity_write_to_pm">Write to PM</string>
+    <string name="string12">Write to PM</string>
+    <string name="string13">Pressing the button below will open an online form from where you can send a message to Hon\'ble PM.</string>
+    <string name="title_activity_pmoindia">PMO India</string>
+    <string name="string14">PMO Menu</string>
+    <string name="title_activity_recruitment_information">Recruitment Information</string>
+    <string name="string15">Go to site</string>
+    <string name="string16">In employmentnews.gov.in you will find information regarding job vacancies, job oriented training programmes, admission notices relating to job oriented courses and result of recruitment examinations. In addition to job vacancies, Rozgar Samachar, in each issue, carries article on job opportunities in various sectors, including emerging sectors.</string>
+    <string name="title_activity_rti">RTI</string>
+    <string name="string17">Go to rti.gov.in</string>
+    <string name="string18">Go to rtionline.gov.in</string>
+    <string name="string19">rti.gov.in is the official RTI site and rtionline.gov.in is a portal to file RTI applications/first appeals online along with payment gateway.</string>
+    <string name="title_activity_online_portal">Online Portal</string>
+    <string name="string20">Go to site</string>
+    <string name="string21">india.gov.in is the Official Portal of the Government of India, designed, developed and hosted by the National Informatics Centre (NIC), a premier ICT organization of the Government of India under the aegis of the Department of Electronics and Information Technology (DeitY), the Ministry of Communications and Information Technology.</string>
+    <string name="title_activity_about">About</string>
+    <string name="string22">App name: Government Of India\nCurrent version: 1.0\nDeveloper: Manojit Ghosh</string>
+    <string name="title_activity_share">Share</string>
+    <string name="string23">Share on Facebook</string>
+    <string name="string24">Share on Twitter</string>
+    <string name="string25">Share this app on Facebook and Twitter.</string>
+    <string name="app_id">737831739618459</string>
+
+</resources>
